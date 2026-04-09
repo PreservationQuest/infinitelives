@@ -26,3 +26,6 @@ Thumbs.db
 
 # Test files
 test_key.py
+
+# Keys and tokens
+access_constants.py
