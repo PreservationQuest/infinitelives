@@ -26,3 +26,34 @@ Use outputs as evidence-aware design support:
 ## Required Outputs
 
 `game-evidence run-all` writes study ontology, game ontology, Dataset C CSV/JSONL, graph JSON/GraphML, edge table, completeness report, audit report, and review queue files under `data/processed/`.
+
+## Citation
+
+If you use or build upon this project, please also cite the ReCITE paper and repository that inspired parts of our approach.
+
+### Paper
+
+Saklad, R., Chadha, A., Pavlov, O., & Moraffah, R. (2026).
+*Can Large Language Models Infer Causal Relationships from Real-World Text?*
+arXiv:2505.18931.
+
+```bibtex
+@misc{saklad2026largelanguagemodelsinfer,
+  title={Can Large Language Models Infer Causal Relationships from Real-World Text?},
+  author={Ryan Saklad and Aman Chadha and Oleg Pavlov and Raha Moraffah},
+  year={2026},
+  eprint={2505.18931},
+  archivePrefix={arXiv},
+  primaryClass={cs.AI},
+  url={https://arxiv.org/abs/2505.18931},
+}
+```
+
+Paper: https://arxiv.org/abs/2505.18931
+
+### Code
+
+Ryan Saklad.
+**ReCITE**.
+GitHub repository.
+https://github.com/Ryan-Saklad/ReCITE
