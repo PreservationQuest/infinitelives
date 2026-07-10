@@ -1,0 +1,270 @@
+[
+  {
+    "game_id": "GAME_0001",
+    "game_name": "Counter-Strike",
+    "developer": "Valve",
+    "publisher": "Valve",
+    "release_year": 2000,
+    "genre": [
+      "Shooter",
+      "Tactical Shooter"
+    ],
+    "platform": [
+      "PC",
+      "Xbox"
+    ],
+    "mechanics": [
+      "Combat",
+      "Team-Based Objectives",
+      "Weapon Purchasing",
+      "Resource Management",
+      "Bomb Planting",
+      "Bomb Defusal",
+      "Hostage Rescue",
+      "Round-Based Play",
+      "Inventory Management",
+      "Cooperation",
+      "Competition"
+    ],
+    "dynamics": [
+      "Team Coordination",
+      "Planning",
+      "Strategic Thinking",
+      "Resource Optimization",
+      "Risk-Reward",
+      "Spatial Control",
+      "Competition",
+      "Tension"
+    ],
+    "aesthetics": [
+      "Challenge",
+      "Fellowship",
+      "Fantasy",
+      "Sensation"
+    ],
+    "core_gameplay_loop": "Choose a team and loadout → coordinate with teammates → complete or prevent the round objective → earn money → buy equipment → repeat rounds.",
+    "gameplay_objective": "Complete team objectives such as eliminating the opposing team, planting or defusing a bomb, or rescuing hostages.",
+    "player_perspective": "First Person",
+    "multiplayer_type": "Competitive Multiplayer",
+    "progression_system": "Round Based",
+    "npc_interaction": "Scripted NPCs",
+    "procedural_generation": false,
+    "world_persistence": false,
+    "skill_requirement": "High",
+    "cognitive_demands": [
+      "Attention",
+      "Reaction Time",
+      "Spatial Reasoning",
+      "Decision Making",
+      "Planning",
+      "Memory"
+    ],
+    "social_features": [
+      "Cooperation",
+      "PvP",
+      "Voice Chat",
+      "Text Chat"
+    ],
+    "communication_requirement": "Optional",
+    "gameplay_summary": "Counter-Strike is a tactical first-person shooter built around round-based team competition between Terrorists and Counter-Terrorists. Players purchase weapons and equipment, coordinate positioning, and attempt map-specific objectives such as bomb detonation, bomb defusal, hostage rescue, or team elimination.",
+    "confidence": "High"
+  },
+  {
+    "game_id": "GAME_0002",
+    "game_name": "Cut the Rope",
+    "developer": "ZeptoLab",
+    "publisher": "Chillingo",
+    "release_year": 2010,
+    "genre": [
+      "Puzzle"
+    ],
+    "platform": [
+      "Mobile",
+      "PC",
+      "Browser",
+      "Nintendo 3DS"
+    ],
+    "mechanics": [
+      "Rope Cutting",
+      "Puzzle Solving",
+      "Physics Interaction",
+      "Timing",
+      "Star Collection",
+      "Tool Use",
+      "Level Progression"
+    ],
+    "dynamics": [
+      "Experimentation",
+      "Planning",
+      "Discovery",
+      "Spatial Reasoning",
+      "Timing Optimization"
+    ],
+    "aesthetics": [
+      "Challenge",
+      "Discovery",
+      "Sensation",
+      "Submission"
+    ],
+    "core_gameplay_loop": "Observe the level → cut ropes or activate tools → guide candy through physics interactions → feed Om Nom → collect stars → unlock new levels.",
+    "gameplay_objective": "Feed candy to Om Nom while collecting stars and clearing levels.",
+    "player_perspective": "2D Side View",
+    "multiplayer_type": "Single Player",
+    "progression_system": "Level Based",
+    "npc_interaction": "Scripted NPCs",
+    "procedural_generation": false,
+    "world_persistence": false,
+    "skill_requirement": "Medium",
+    "cognitive_demands": [
+      "Problem Solving",
+      "Spatial Reasoning",
+      "Attention",
+      "Decision Making",
+      "Reaction Time"
+    ],
+    "social_features": [],
+    "communication_requirement": "None",
+    "gameplay_summary": "Cut the Rope is a physics-based puzzle game in which the player manipulates ropes, gravity, timing, and level-specific tools to move candy into Om Nom's mouth. Levels reward completion and optional star collection, with new puzzle elements introduced through level-based progression.",
+    "confidence": "High"
+  },
+  {
+    "game_id": "GAME_0003",
+    "game_name": "Angry Birds Space",
+    "developer": "Rovio Entertainment",
+    "publisher": "Rovio Entertainment",
+    "release_year": 2012,
+    "genre": [
+      "Puzzle"
+    ],
+    "platform": [
+      "Mobile",
+      "PC"
+    ],
+    "mechanics": [
+      "Slingshot Launching",
+      "Physics Interaction",
+      "Trajectory Aiming",
+      "Gravity Manipulation",
+      "Puzzle Solving",
+      "Destructible Structures",
+      "Special Abilities",
+      "Star Scoring",
+      "Level Progression"
+    ],
+    "dynamics": [
+      "Experimentation",
+      "Planning",
+      "Discovery",
+      "Strategic Thinking",
+      "Resource Optimization",
+      "Risk-Reward",
+      "Spatial Reasoning"
+    ],
+    "aesthetics": [
+      "Challenge",
+      "Discovery",
+      "Fantasy",
+      "Sensation"
+    ],
+    "core_gameplay_loop": "Inspect the level → aim and launch birds → use gravity fields and bird abilities → destroy pigs and structures → earn stars → advance to the next level.",
+    "gameplay_objective": "Launch birds through space environments to eliminate pigs in each level.",
+    "player_perspective": "2D Side View",
+    "multiplayer_type": "Single Player",
+    "progression_system": "Level Based",
+    "npc_interaction": "Scripted NPCs",
+    "procedural_generation": false,
+    "world_persistence": false,
+    "skill_requirement": "Medium",
+    "cognitive_demands": [
+      "Problem Solving",
+      "Spatial Reasoning",
+      "Planning",
+      "Attention",
+      "Decision Making"
+    ],
+    "social_features": [],
+    "communication_requirement": "None",
+    "gameplay_summary": "Angry Birds Space is a physics puzzle game that adapts the Angry Birds slingshot formula to outer-space stages with gravity fields and planetary bodies. Players select launch angles, use bird abilities, and exploit destructible structures to defeat pigs while optimizing scores across discrete levels.",
+    "confidence": "High"
+  },
+  {
+    "game_id": "GAME_0004",
+    "game_name": "League of Legends",
+    "developer": "Riot Games",
+    "publisher": "Riot Games",
+    "release_year": 2009,
+    "genre": [
+      "MOBA",
+      "Strategy",
+      "Action"
+    ],
+    "platform": [
+      "PC"
+    ],
+    "mechanics": [
+      "Champion Selection",
+      "Ability Casting",
+      "Team-Based Combat",
+      "Lane Control",
+      "Farming",
+      "Leveling",
+      "Item Purchasing",
+      "Resource Management",
+      "Objective Control",
+      "Map Vision",
+      "Base Destruction",
+      "Cooperation",
+      "Competition"
+    ],
+    "dynamics": [
+      "Team Coordination",
+      "Planning",
+      "Strategic Thinking",
+      "Resource Optimization",
+      "Map Control",
+      "Role Specialization",
+      "Risk-Reward",
+      "Tactical Positioning",
+      "Competition",
+      "Social Interaction"
+    ],
+    "aesthetics": [
+      "Challenge",
+      "Fellowship",
+      "Fantasy",
+      "Expression",
+      "Discovery",
+      "Sensation"
+    ],
+    "core_gameplay_loop": "Select a champion → gain gold and experience through lanes or jungle → buy items and unlock abilities → contest objectives and team fights → push lanes → destroy the enemy Nexus.",
+    "gameplay_objective": "Destroy the enemy Nexus while defending your own base.",
+    "player_perspective": "Isometric",
+    "multiplayer_type": "Competitive Multiplayer",
+    "progression_system": "Match Based",
+    "npc_interaction": "Dynamic NPC Behaviour",
+    "procedural_generation": false,
+    "world_persistence": false,
+    "skill_requirement": "High",
+    "cognitive_demands": [
+      "Attention",
+      "Reaction Time",
+      "Decision Making",
+      "Planning",
+      "Spatial Reasoning",
+      "Memory",
+      "Problem Solving",
+      "Multitasking"
+    ],
+    "social_features": [
+      "Cooperation",
+      "PvP",
+      "Text Chat",
+      "Voice Chat",
+      "Ping System",
+      "Team-Based Matchmaking"
+    ],
+    "communication_requirement": "Optional",
+    "gameplay_summary": "League of Legends is a team-based multiplayer online battle arena game in which two teams of five champions fight across a lane-and-jungle map. Players gain experience and gold, buy items, control objectives, coordinate fights, and push through defensive structures to destroy the opposing Nexus.",
+    "confidence": "High"
+  }
+]
