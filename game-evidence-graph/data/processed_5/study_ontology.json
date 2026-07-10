@@ -1,0 +1,910 @@
+{
+  "papers": [
+    {
+      "paper_id": "paper_001",
+      "title": "Activity and Energy Expenditure in Older People Playing Active Video Games Lynne M. Taylor, MSc, Ralph Maddison, PhD, Leila A. Pfaef\ufb02i, MA, Jonathan C. Rawstorn, BSc, Nicholas Gant, PhD, Ngaire M. Kerse, PhD, MBChB",
+      "authors": [],
+      "year": 2012,
+      "doi": "10.1016/j.apmr.2012.03.034",
+      "venue": null,
+      "source_pdf": "paper_1.pdf"
+    },
+    {
+      "paper_id": "paper_002",
+      "title": "Research Report The effects of an action video game on visual and affective",
+      "authors": [],
+      "year": 2013,
+      "doi": "10.1016/j.brainres.2013.02.019",
+      "venue": null,
+      "source_pdf": "paper_2.pdf"
+    },
+    {
+      "paper_id": "paper_003",
+      "title": "Editor\u2019s key points Painful medical procedures are often unavoidable in paediatric medical care, which can cause signi\ufb01cant pain, anxiety or distress, and can lead to negative long-term outcomes. Screen-based technologies can improve procedural",
+      "authors": [],
+      "year": 2020,
+      "doi": "10.1016/j.bja.2021.06.039",
+      "venue": null,
+      "source_pdf": "paper_3.pdf"
+    },
+    {
+      "paper_id": "paper_004",
+      "title": "Special Issue \u201cMultisensory integration\u201d: Research Report",
+      "authors": [],
+      "year": 2020,
+      "doi": "10.1016/j.cortex.2020.10.009",
+      "venue": null,
+      "source_pdf": "paper_4.pdf"
+    },
+    {
+      "paper_id": "paper_005",
+      "title": "Geoforum 121 (2021) 115\u2013128 Available online 6 March 2021",
+      "authors": [],
+      "year": 2021,
+      "doi": "10.1016/j.geoforum.2021.02.008",
+      "venue": null,
+      "source_pdf": "paper_5.pdf"
+    }
+  ],
+  "studies": [
+    {
+      "paper_id": "paper_001",
+      "paper_title": "Activity and Energy Expenditure in Older People Playing Active Video Games Lynne M. Taylor, MSc, Ralph Maddison, PhD, Leila A. Pfaef\ufb02i, MA, Jonathan C. Rawstorn, BSc, Nicholas Gant, PhD, Ngaire M. Kerse, PhD, MBChB",
+      "doi": "10.1016/j.apmr.2012.03.034",
+      "year": 2012,
+      "venue": null,
+      "study_id": "study_1",
+      "study_label": "Cross-sectional lab study of energy expenditure during active video game play",
+      "research_categories": [
+        "Physiological"
+      ],
+      "studied_conditions": [
+        "energy expenditure",
+        "balance status"
+      ],
+      "population": {
+        "population_id": "pop_001",
+        "population_raw": "Community-dwelling adults (N=19) aged 70.7\u00b16.4 years.",
+        "studied_conditions": [
+          "balance status"
+        ],
+        "age_range": null,
+        "mean_age": null,
+        "sample_size": 19,
+        "gender": null,
+        "country": null,
+        "prior_gaming_experience": null,
+        "population_category": []
+      },
+      "study_design": "within_subject_experimental",
+      "evidence_strength": "within_subject_experimental",
+      "context": "University research center; laboratory-based testing (playing area 4 x 4 m, 32-inch flat screen); Nintendo Wii and Xbox 360 Kinect platforms used.",
+      "intervention_duration": "Each game played for 5 minutes; 5-minute seated rest interleaved between games; 20-minute familiarization; 10-minute supine rest for resting VO2.",
+      "interventions": [
+        {
+          "intervention_id": "study_1_int_01",
+          "intervention_name": "Active video game play vs rest",
+          "treatment_raw": "Participants played 9 active video games, each for 5 minutes, in random order. Two games (boxing and bowling) were played in both seated and standing positions.",
+          "control_raw": "resting oxygen consumption per unit time (V\u02c8O2) was measured while participants rested quietly, positioned supine for 10 minutes. Games were interleaved with 5 minutes of seated rest.",
+          "conditions": [
+            {
+              "condition_id": "study_1_cond_treatment",
+              "condition_type": "treatment",
+              "description": "Play of active video games (each for 5 minutes) on Nintendo Wii and Xbox 360 Kinect in randomized order; included standing and seated play for some games.",
+              "game_mentions": [
+                "Nintendo Wii",
+                "Wii Sport bowling",
+                "Wii boxing",
+                "Wii tennis",
+                "Xbox 360 Kinect",
+                "Your Shape Fitness Evolved (Tai Chi)",
+                "Kinect Sports bowling",
+                "Kinect Sports boxing",
+                "Kinect Sports table tennis"
+              ],
+              "game_ids": []
+            },
+            {
+              "condition_id": "study_1_cond_control",
+              "condition_type": "control",
+              "description": "Rest (supine rest to measure resting VO2; interleaved 5-minute seated rest between game trials).",
+              "game_mentions": [
+                "Nintendo Wii",
+                "Xbox 360",
+                "Kinect Sports"
+              ],
+              "game_ids": []
+            }
+          ]
+        }
+      ],
+      "outcomes": [
+        {
+          "outcome_id": "study_1_out_001",
+          "outcome_raw": "energy expenditure (METs)",
+          "outcome_canonical": "energy expenditure (METs)",
+          "outcome_category": "Physiological",
+          "measurement_id": "study_1_meas_001",
+          "measurement_raw": "indirect calorimetry; energy expenditure expressed in kilojoules per minute and metabolic equivalents (METs); V\u02c8O2 measured via expired air gas analysis system",
+          "measurement_type": "physiological_measure",
+          "effect_direction": "positive",
+          "effect_size_raw": "ranged from 1.46\u00b1.41 METs to 2.97\u00b11.16 METs",
+          "effect_size_numeric": null,
+          "effect_metric": null,
+          "p_value": "\u2264.01",
+          "confidence_interval": null,
+          "effect_target_measure": null,
+          "evidence_statement": null,
+          "source_quote": "Mean \u00b1 SD energy expenditure was signi\ufb01cantly greater for all game conditions compared with rest (all P\u2264.01) and ranged from 1.46\u00b1.41 METs to 2.97\u00b11.16 METs.",
+          "source_page": 1,
+          "page_trace_status": "found"
+        },
+        {
+          "outcome_id": "study_1_out_002",
+          "outcome_raw": "difference in energy expenditure, activity counts, and perceived exertion between equivalent games played while standing and seated",
+          "outcome_canonical": "no significant difference between seated and standing play (energy expenditure, activity counts, perceived exertion)",
+          "outcome_category": "Physiological",
+          "measurement_id": "study_1_meas_002",
+          "measurement_raw": "indirect calorimetry; Actigraph accelerometers (hip and wrist) for activity counts; Ratings of Perceived Exertion (Borg scale) for perceived exertion",
+          "measurement_type": "physiological/accelerometry/self_report",
+          "effect_direction": "null",
+          "effect_size_raw": null,
+          "effect_size_numeric": null,
+          "effect_metric": null,
+          "p_value": "not significant",
+          "confidence_interval": null,
+          "effect_target_measure": null,
+          "evidence_statement": null,
+          "source_quote": "There was no signi\ufb01cant difference in energy expenditure, activity counts, or perceived exertion between equivalent games played while standing and seated.",
+          "source_page": 1,
+          "page_trace_status": "found"
+        },
+        {
+          "outcome_id": "study_1_out_003",
+          "outcome_raw": "correlation between energy expenditure or activity counts and balance status",
+          "outcome_canonical": "no significant correlation between energy expenditure or activity counts and balance status",
+          "outcome_category": "Physiological",
+          "measurement_id": "study_1_meas_003",
+          "measurement_raw": "balance assessed using the mini-BESTest, the Activities-speci\ufb01c Balance Con\ufb01dence (ABC) Scale, and the Timed Up and Go (TUG); correlations with EE and activity counts assessed",
+          "measurement_type": "correlational_statistic",
+          "effect_direction": "null",
+          "effect_size_raw": null,
+          "effect_size_numeric": null,
+          "effect_metric": null,
+          "p_value": "not significant",
+          "confidence_interval": null,
+          "effect_target_measure": null,
+          "evidence_statement": null,
+          "source_quote": "No signi\ufb01cant correlations were observed between energy expenditure or activity counts and balance status.",
+          "source_page": 1,
+          "page_trace_status": "found"
+        },
+        {
+          "outcome_id": "study_1_out_004",
+          "outcome_raw": "activity counts (accelerometry)",
+          "outcome_canonical": "activity counts (hip and wrist accelerometers)",
+          "outcome_category": "Physiological",
+          "measurement_id": "study_1_meas_004",
+          "measurement_raw": "two dual-axial accelerometers (Actigraph Model ActiGraph GT1M) worn on the right hip and dominant wrist",
+          "measurement_type": "accelerometry",
+          "effect_direction": "not_reported",
+          "effect_size_raw": null,
+          "effect_size_numeric": null,
+          "effect_metric": null,
+          "p_value": null,
+          "confidence_interval": null,
+          "effect_target_measure": null,
+          "evidence_statement": null,
+          "source_quote": "To quantify movement, participants were instrumented with 2 dual-axial accelerometers (Actigraph Model ActiGraph GT1M) worn on the right hip and dominant wrist.",
+          "source_page": 2,
+          "page_trace_status": "found"
+        },
+        {
+          "outcome_id": "study_1_out_005",
+          "outcome_raw": "perceived exertion (RPE)",
+          "outcome_canonical": "ratings of perceived exertion (Borg scale 6-20)",
+          "outcome_category": "Physiological",
+          "measurement_id": "study_1_meas_005",
+          "measurement_raw": "Ratings of Perceived Exertion (RPEs) Scale (Borg scale, range 6-20)",
+          "measurement_type": "self_report",
+          "effect_direction": "not_reported",
+          "effect_size_raw": null,
+          "effect_size_numeric": null,
+          "effect_metric": null,
+          "p_value": null,
+          "confidence_interval": null,
+          "effect_target_measure": null,
+          "evidence_statement": null,
+          "source_quote": "We measured self-perceived exercise intensity using the Ratings of Perceived Exertion (RPEs) Scale. The scale ranges from 6 (no exertion at all) to 20 (maximal exertion).",
+          "source_page": 2,
+          "page_trace_status": "found"
+        },
+        {
+          "outcome_id": "study_1_out_006",
+          "outcome_raw": "interpretation: active video games provide light-intensity exercise in community-dwelling older people",
+          "outcome_canonical": "light-intensity exercise (interpretation)",
+          "outcome_category": "Interpreted",
+          "measurement_id": "study_1_meas_006",
+          "measurement_raw": null,
+          "measurement_type": "interpretation",
+          "effect_direction": "positive",
+          "effect_size_raw": null,
+          "effect_size_numeric": null,
+          "effect_metric": null,
+          "p_value": null,
+          "confidence_interval": null,
+          "effect_target_measure": null,
+          "evidence_statement": null,
+          "source_quote": "Active video games provide light-intensity exercise in community-dwelling older people, whether played while seated or standing.",
+          "source_page": 1,
+          "page_trace_status": "found"
+        },
+        {
+          "outcome_id": "study_1_out_007",
+          "outcome_raw": "interpretation: seated active video game play may provide equivalent benefits to standing play for people unable to stand",
+          "outcome_canonical": "equivalence of seated and standing play (interpretation)",
+          "outcome_category": "Interpreted",
+          "measurement_id": "study_1_meas_007",
+          "measurement_raw": null,
+          "measurement_type": "interpretation",
+          "effect_direction": "positive",
+          "effect_size_raw": null,
+          "effect_size_numeric": null,
+          "effect_metric": null,
+          "p_value": null,
+          "confidence_interval": null,
+          "effect_target_measure": null,
+          "evidence_statement": null,
+          "source_quote": "People who are unable to stand may derive equivalent bene\ufb01ts from active video games played while seated.",
+          "source_page": 1,
+          "page_trace_status": "found"
+        }
+      ],
+      "source_pdf": "paper_1.pdf",
+      "extraction_confidence": 0.5,
+      "review_status": "needs_review"
+    },
+    {
+      "paper_id": "paper_002",
+      "paper_title": "Research Report The effects of an action video game on visual and affective",
+      "doi": "10.1016/j.brainres.2013.02.019",
+      "year": 2013,
+      "venue": null,
+      "study_id": "study_1",
+      "study_label": "10 h training: action video game vs non-action video game vs no-contact control",
+      "research_categories": [
+        "Neuro/Cognitive",
+        "Psychological",
+        "Behavioral"
+      ],
+      "studied_conditions": [
+        "visuospatial cognition",
+        "emotion processing",
+        "visual and affective information processing"
+      ],
+      "population": {
+        "population_id": "pop_001",
+        "population_raw": "non-gamers",
+        "studied_conditions": [],
+        "age_range": null,
+        "mean_age": null,
+        "sample_size": null,
+        "gender": null,
+        "country": null,
+        "prior_gaming_experience": null,
+        "population_category": []
+      },
+      "study_design": "quasi_experimental",
+      "evidence_strength": "quasi_experimental",
+      "context": "event-related brain potentials (ERPs); emotion search task",
+      "intervention_duration": "10 h",
+      "interventions": [
+        {
+          "intervention_id": "study_1_int_01",
+          "intervention_name": "Action video game training",
+          "treatment_raw": "training non-gamers on an action ... video game for 10 h",
+          "control_raw": null,
+          "conditions": [
+            {
+              "condition_id": "study_1_cond_treatment",
+              "condition_type": "treatment",
+              "description": "action video game (10 h training)",
+              "game_mentions": [
+                "action video game"
+              ],
+              "game_ids": []
+            }
+          ]
+        },
+        {
+          "intervention_id": "study_1_int_02",
+          "intervention_name": "Non-action video game training",
+          "treatment_raw": "training non-gamers on an ... non-action video game for 10 h",
+          "control_raw": null,
+          "conditions": [
+            {
+              "condition_id": "study_1_cond_comparison",
+              "condition_type": "comparison",
+              "description": "non-action video game (10 h training)",
+              "game_mentions": [
+                "non-action video game"
+              ],
+              "game_ids": []
+            }
+          ]
+        },
+        {
+          "intervention_id": "study_1_int_03",
+          "intervention_name": "No-contact control",
+          "treatment_raw": "no-contact control group",
+          "control_raw": null,
+          "conditions": [
+            {
+              "condition_id": "study_1_cond_control",
+              "condition_type": "control",
+              "description": "no-contact control",
+              "game_mentions": [
+                "no-contact control"
+              ],
+              "game_ids": []
+            }
+          ]
+        }
+      ],
+      "outcomes": [
+        {
+          "outcome_id": "study_1_out_001",
+          "outcome_raw": "increase in the amplitude of the ERPs following training over the right frontal and posterior regions",
+          "outcome_canonical": "ERP amplitude increase (right frontal and posterior regions)",
+          "outcome_category": "neural/physiological",
+          "measurement_id": "study_1_meas_001",
+          "measurement_raw": "event-related brain potentials (ERPs); amplitude of the ERPs",
+          "measurement_type": "electrophysiological",
+          "effect_direction": "positive",
+          "effect_size_raw": null,
+          "effect_size_numeric": null,
+          "effect_metric": null,
+          "p_value": null,
+          "confidence_interval": null,
+          "effect_target_measure": null,
+          "evidence_statement": null,
+          "source_quote": "Playing an action game resulted in two effects: one that reflected an increase in the amplitude of the ERPs following training over the right frontal and posterior regions that was similar for angry, happy, and neutral faces;",
+          "source_page": 1,
+          "page_trace_status": "found"
+        },
+        {
+          "outcome_id": "study_1_out_002",
+          "outcome_raw": "reduction in the allocation of attention to happy faces",
+          "outcome_canonical": "allocation of attention to happy faces (reduction)",
+          "outcome_category": "psychological/attentional",
+          "measurement_id": "study_1_meas_002",
+          "measurement_raw": "inferred from ERP effects related to attention (P3) during emotion search task",
+          "measurement_type": "interpreted construct (attention allocation)",
+          "effect_direction": "negative",
+          "effect_size_raw": null,
+          "effect_size_numeric": null,
+          "effect_metric": null,
+          "p_value": null,
+          "confidence_interval": null,
+          "effect_target_measure": null,
+          "evidence_statement": null,
+          "source_quote": "Playing an action game resulted in ... one that reflected a reduction in the allocation of attention to happy faces.",
+          "source_page": 1,
+          "page_trace_status": "found"
+        },
+        {
+          "outcome_id": "study_1_out_003",
+          "outcome_raw": "changes in slow wave activity over the central\u2013parietal and frontal regions that were greater for targets (i.e., angry and happy faces) than for nontargets (i.e., neutral faces)",
+          "outcome_canonical": "slow wave activity increase for targets (central\u2013parietal and frontal regions)",
+          "outcome_category": "neural/physiological",
+          "measurement_id": "study_1_meas_003",
+          "measurement_raw": "slow wave activity (ERP slow wave) over central\u2013parietal and frontal regions",
+          "measurement_type": "electrophysiological",
+          "effect_direction": "positive",
+          "effect_size_raw": null,
+          "effect_size_numeric": null,
+          "effect_metric": null,
+          "p_value": null,
+          "confidence_interval": null,
+          "effect_target_measure": null,
+          "evidence_statement": null,
+          "source_quote": "In contrast, playing a non-action game resulted in changes in slow wave activity over the central\u2013parietal and frontal regions that were greater for targets (i.e., angry and happy faces) than for nontargets (i.e., neutral faces).",
+          "source_page": 1,
+          "page_trace_status": "found"
+        },
+        {
+          "outcome_id": "study_1_out_004",
+          "outcome_raw": "N2 and P3 amplitudes are greater for targets than non-targets (general ERP background cited)",
+          "outcome_canonical": "N2 and P3 target > non-target amplitude",
+          "outcome_category": "neural/physiological",
+          "measurement_id": "study_1_meas_004",
+          "measurement_raw": "N2 (180\u2013300 ms), P3 (300\u2013600 ms) amplitude measured by ERPs",
+          "measurement_type": "electrophysiological",
+          "effect_direction": "not_reported",
+          "effect_size_raw": null,
+          "effect_size_numeric": null,
+          "effect_metric": null,
+          "p_value": null,
+          "confidence_interval": null,
+          "effect_target_measure": null,
+          "evidence_statement": null,
+          "source_quote": "Studies examining the neural correlates of target processing in visual search tasks using ERPs have consistently demonstrated that the amplitude of the N2 and P3 components are greater for targets than non-targets (Bledowski et al., 2004; Luck and Hillyard, 1990, 1994).",
+          "source_page": 2,
+          "page_trace_status": "found"
+        }
+      ],
+      "source_pdf": "paper_2.pdf",
+      "extraction_confidence": 0.5,
+      "review_status": "needs_review"
+    },
+    {
+      "paper_id": "paper_003",
+      "paper_title": "Editor\u2019s key points Painful medical procedures are often unavoidable in paediatric medical care, which can cause signi\ufb01cant pain, anxiety or distress, and can lead to negative long-term outcomes. Screen-based technologies can improve procedural",
+      "doi": "10.1016/j.bja.2021.06.039",
+      "year": 2020,
+      "venue": null,
+      "study_id": "study_1",
+      "study_label": "Systematic review and meta-analysis of interactive video games vs standard care for paediatric procedural pain and anxiety",
+      "research_categories": [
+        "Physiological",
+        "Psychological"
+      ],
+      "studied_conditions": [
+        "paediatric procedural pain",
+        "procedural anxiety",
+        "caregiver procedural anxiety"
+      ],
+      "population": {
+        "population_id": "pop_001",
+        "population_raw": "children (0e18 yr) undergoing painful procedures",
+        "studied_conditions": [],
+        "age_range": null,
+        "mean_age": null,
+        "sample_size": 3406,
+        "gender": null,
+        "country": null,
+        "prior_gaming_experience": null,
+        "population_category": []
+      },
+      "study_design": "not_reported",
+      "evidence_strength": "not_reported",
+      "context": "We conducted a systematic review and meta-analysis of the effectiveness of interactive video games compared with standard care in children (0e18 yr) undergoing painful procedures.",
+      "intervention_duration": "not_reported",
+      "interventions": [
+        {
+          "intervention_id": "study_1_int_01",
+          "intervention_name": "Interactive video games vs standard care / non-interactive games",
+          "treatment_raw": "interactive video game interventions",
+          "control_raw": "standard care or other non-interactive video game interventions",
+          "conditions": [
+            {
+              "condition_id": "study_1_cond_treatment",
+              "condition_type": "treatment",
+              "description": "For the purposes of this study, we have included all screen-based games with an audiovisual component that responds to user input to change the audiovisual output, and henceforth referred to these as 'interactive video games'.",
+              "game_mentions": [
+                "virtual reality",
+                "conventional video game",
+                "interactive audiovisual game"
+              ],
+              "game_ids": []
+            },
+            {
+              "condition_id": "study_1_cond_control",
+              "condition_type": "control",
+              "description": "standard care or other non-interactive video game interventions",
+              "game_mentions": [
+                "Unspecified video game"
+              ],
+              "game_ids": []
+            }
+          ]
+        }
+      ],
+      "outcomes": [
+        {
+          "outcome_id": "study_1_out_001",
+          "outcome_raw": "children\u2019s procedural pain",
+          "outcome_canonical": "procedural pain",
+          "outcome_category": "Pain",
+          "measurement_id": "study_1_meas_001",
+          "measurement_raw": "standardised mean difference (SMD)",
+          "measurement_type": "meta-analytic effect size (SMD)",
+          "effect_direction": "positive",
+          "effect_size_raw": "SMD\u00bce0.43; 95% con\ufb01dence interval (CI): e0.67 to e0.20",
+          "effect_size_numeric": null,
+          "effect_metric": null,
+          "p_value": null,
+          "confidence_interval": "95% CI: e0.67 to e0.20",
+          "effect_target_measure": null,
+          "evidence_statement": null,
+          "source_quote": "interactive video games appear to reduce children\u2019s procedural pain (standardised mean difference [SMD]\u00bce0.43; 95% con\ufb01dence interval [CI]: e0.67 to e0.20)",
+          "source_page": 1,
+          "page_trace_status": "found"
+        },
+        {
+          "outcome_id": "study_1_out_002",
+          "outcome_raw": "children\u2019s procedural anxiety",
+          "outcome_canonical": "procedural anxiety",
+          "outcome_category": "Anxiety",
+          "measurement_id": "study_1_meas_002",
+          "measurement_raw": "standardised mean difference (SMD)",
+          "measurement_type": "meta-analytic effect size (SMD)",
+          "effect_direction": "positive",
+          "effect_size_raw": "SMD\u00bc0.61; 95% CI: e0.88 to e0.34",
+          "effect_size_numeric": null,
+          "effect_metric": null,
+          "p_value": null,
+          "confidence_interval": "95% CI: e0.88 to e0.34",
+          "effect_target_measure": null,
+          "evidence_statement": null,
+          "source_quote": "interactive video games appear to reduce children\u2019s ... anxiety (SMD\u00bc0.61; 95% CI: e0.88 to e0.34)",
+          "source_page": 1,
+          "page_trace_status": "found"
+        },
+        {
+          "outcome_id": "study_1_out_003",
+          "outcome_raw": "caregivers\u2019 procedural anxiety",
+          "outcome_canonical": "caregiver procedural anxiety",
+          "outcome_category": "Anxiety",
+          "measurement_id": "study_1_meas_003",
+          "measurement_raw": "standardised mean difference (SMD)",
+          "measurement_type": "meta-analytic effect size (SMD)",
+          "effect_direction": "positive",
+          "effect_size_raw": "SMD\u00bce0.31; 95% CI: e0.58 to e0.04",
+          "effect_size_numeric": null,
+          "effect_metric": null,
+          "p_value": null,
+          "confidence_interval": "95% CI: e0.58 to e0.04",
+          "effect_target_measure": null,
+          "evidence_statement": null,
+          "source_quote": "interactive video games appear to reduce children\u2019s procedural pain ... and caregivers\u2019 procedural anxiety (SMD\u00bce0.31; 95% CI: e0.58 to e0.04).",
+          "source_page": 1,
+          "page_trace_status": "found"
+        },
+        {
+          "outcome_id": "study_1_out_004",
+          "outcome_raw": "procedure length",
+          "outcome_canonical": "procedure length",
+          "outcome_category": "Medical outcome",
+          "measurement_id": "study_1_meas_004",
+          "measurement_raw": "meta-analysis comparison vs standard care",
+          "measurement_type": "meta-analytic comparison",
+          "effect_direction": "null",
+          "effect_size_raw": "no difference between interactive video games compared with standard care for most medical outcomes (e.g. procedure length)",
+          "effect_size_numeric": null,
+          "effect_metric": null,
+          "p_value": null,
+          "confidence_interval": null,
+          "effect_target_measure": null,
+          "evidence_statement": null,
+          "source_quote": "We also observed no difference between interactive video games compared with standard care for most medical outcomes (e.g. procedure length), except a reduced need for restraint.",
+          "source_page": 1,
+          "page_trace_status": "found"
+        },
+        {
+          "outcome_id": "study_1_out_005",
+          "outcome_raw": "need for restraint",
+          "outcome_canonical": "need for restraint",
+          "outcome_category": "Medical outcome",
+          "measurement_id": "study_1_meas_005",
+          "measurement_raw": "meta-analysis comparison vs standard care",
+          "measurement_type": "meta-analytic comparison",
+          "effect_direction": "positive",
+          "effect_size_raw": "reduced need for restraint",
+          "effect_size_numeric": null,
+          "effect_metric": null,
+          "p_value": null,
+          "confidence_interval": null,
+          "effect_target_measure": null,
+          "evidence_statement": null,
+          "source_quote": "We also observed no difference between interactive video games compared with standard care for most medical outcomes (e.g. procedure length), except a reduced need for restraint.",
+          "source_page": 1,
+          "page_trace_status": "found"
+        },
+        {
+          "outcome_id": "study_1_out_006",
+          "outcome_raw": "difference between preparatory and distracting games",
+          "outcome_canonical": "preparatory vs distracting game effect",
+          "outcome_category": "Comparative effectiveness",
+          "measurement_id": "study_1_meas_006",
+          "measurement_raw": "meta-analysis subgroup comparison",
+          "measurement_type": "meta-analytic subgroup comparison",
+          "effect_direction": "null",
+          "effect_size_raw": "no difference between preparatory and distracting games",
+          "effect_size_numeric": null,
+          "effect_metric": null,
+          "p_value": null,
+          "confidence_interval": null,
+          "effect_target_measure": null,
+          "evidence_statement": null,
+          "source_quote": "We observed no difference between preparatory and distracting games, or between virtual reality and non-virtual reality games.",
+          "source_page": 1,
+          "page_trace_status": "found"
+        },
+        {
+          "outcome_id": "study_1_out_007",
+          "outcome_raw": "virtual reality vs non-virtual reality games",
+          "outcome_canonical": "VR vs non-VR game effect",
+          "outcome_category": "Comparative effectiveness",
+          "measurement_id": "study_1_meas_007",
+          "measurement_raw": "meta-analysis subgroup comparison",
+          "measurement_type": "meta-analytic subgroup comparison",
+          "effect_direction": "null",
+          "effect_size_raw": "no difference between virtual reality and non-virtual reality games",
+          "effect_size_numeric": null,
+          "effect_metric": null,
+          "p_value": null,
+          "confidence_interval": null,
+          "effect_target_measure": null,
+          "evidence_statement": null,
+          "source_quote": "We observed no difference between preparatory and distracting games, or between virtual reality and non-virtual reality games.",
+          "source_page": 1,
+          "page_trace_status": "found"
+        }
+      ],
+      "source_pdf": "paper_3.pdf",
+      "extraction_confidence": 0.5,
+      "review_status": "needs_review"
+    },
+    {
+      "paper_id": "paper_004",
+      "paper_title": "Special Issue \u201cMultisensory integration\u201d: Research Report",
+      "doi": "10.1016/j.cortex.2020.10.009",
+      "year": 2020,
+      "venue": null,
+      "study_id": "study_1",
+      "study_label": "Comparison of first-person shooter gamers (FPSG) and non-players (NP) on sound-induced flash illusion and migraine incidence",
+      "research_categories": [
+        "Neuro/Cognitive",
+        "Physiological",
+        "Behavioral"
+      ],
+      "studied_conditions": [
+        "multisensory temporal precision",
+        "sound-induced flash illusion",
+        "multisensory temporal binding window",
+        "audio-visual processing",
+        "migraine incidence"
+      ],
+      "population": {
+        "population_id": "pop_001",
+        "population_raw": "a group of expert first-person shooter gamers and a non-players group",
+        "studied_conditions": [
+          "multisensory temporal precision",
+          "migraine incidence"
+        ],
+        "age_range": null,
+        "mean_age": null,
+        "sample_size": null,
+        "gender": null,
+        "country": null,
+        "prior_gaming_experience": null,
+        "population_category": []
+      },
+      "study_design": "between_subject_observational",
+      "evidence_strength": "between_subject_observational",
+      "context": "We tested this hypothesis by comparing the temporal profile of the sound-induced illusion in a group of expert first-person shooter gamers and a non-players group.",
+      "intervention_duration": "not_reported",
+      "interventions": [
+        {
+          "intervention_id": "study_1_int_01",
+          "intervention_name": "Group membership: exposure to first-person shooter videogames",
+          "treatment_raw": "expert first-person shooter gamers",
+          "control_raw": "non-players group",
+          "conditions": [
+            {
+              "condition_id": "study_1_cond_treatment",
+              "condition_type": "treatment",
+              "description": "expert first-person shooter gamers (FPSG)",
+              "game_mentions": [
+                "first-person shooter videogames",
+                "FPSG"
+              ],
+              "game_ids": []
+            },
+            {
+              "condition_id": "study_1_cond_control",
+              "condition_type": "control",
+              "description": "non-players (NP)",
+              "game_mentions": [
+                "not_reported"
+              ],
+              "game_ids": []
+            }
+          ]
+        }
+      ],
+      "outcomes": [
+        {
+          "outcome_id": "study_1_out_001",
+          "outcome_raw": "windows of illusion (~87 ms) relative to non-players (~105 ms)",
+          "outcome_canonical": "multisensory temporal binding window width (ms)",
+          "outcome_category": "Neuro/Cognitive",
+          "measurement_id": "study_1_meas_001",
+          "measurement_raw": "temporal window of illusion measured in milliseconds (TBW)",
+          "measurement_type": "behavioral perceptual threshold (ms)",
+          "effect_direction": "positive",
+          "effect_size_raw": "~87 ms (gamers) vs ~105 ms (non-players)",
+          "effect_size_numeric": null,
+          "effect_metric": null,
+          "p_value": null,
+          "confidence_interval": null,
+          "effect_target_measure": null,
+          "evidence_statement": null,
+          "source_quote": "gamers experience signi\ufb01cantly narrower windows of illusion (~87 ms) relative to non-players (~105 ms)",
+          "source_page": 1,
+          "page_trace_status": "found"
+        },
+        {
+          "outcome_id": "study_1_out_002",
+          "outcome_raw": "higher veridical reports in gamers (~68%) relative to non-players (~59%)",
+          "outcome_canonical": "proportion of veridical percept reports (%)",
+          "outcome_category": "Neuro/Cognitive",
+          "measurement_id": "study_1_meas_002",
+          "measurement_raw": "percentage of veridical reports during SIFI task",
+          "measurement_type": "behavioral accuracy (% correct/veridical responses)",
+          "effect_direction": "positive",
+          "effect_size_raw": "~68% (gamers) vs ~59% (non-players)",
+          "effect_size_numeric": null,
+          "effect_metric": null,
+          "p_value": null,
+          "confidence_interval": null,
+          "effect_target_measure": null,
+          "evidence_statement": null,
+          "source_quote": "leading to higher veridical reports in gamers (~68%) relative to non-players (~59%)",
+          "source_page": 1,
+          "page_trace_status": "found"
+        },
+        {
+          "outcome_id": "study_1_out_003",
+          "outcome_raw": "migraine severity may be directly proportioned to the time spent on videogames",
+          "outcome_canonical": "migraine incidence/severity related to videogame exposure",
+          "outcome_category": "Physiological",
+          "measurement_id": "study_1_meas_003",
+          "measurement_raw": "not_reported (relationship described qualitatively)",
+          "measurement_type": "self-reported migraine incidence/severity (not_specified)",
+          "effect_direction": "negative",
+          "effect_size_raw": null,
+          "effect_size_numeric": null,
+          "effect_metric": null,
+          "p_value": null,
+          "confidence_interval": null,
+          "effect_target_measure": null,
+          "evidence_statement": null,
+          "source_quote": "we tested whether audio-visual intensive training in gamers could be related to the incidence of migraine, and found that its severity may be directly proportioned to the time spent on videogames.",
+          "source_page": 1,
+          "page_trace_status": "found"
+        }
+      ],
+      "source_pdf": "paper_4.pdf",
+      "extraction_confidence": 0.5,
+      "review_status": "needs_review"
+    },
+    {
+      "paper_id": "paper_005",
+      "paper_title": "Geoforum 121 (2021) 115\u2013128 Available online 6 March 2021",
+      "doi": "10.1016/j.geoforum.2021.02.008",
+      "year": 2021,
+      "venue": null,
+      "study_id": "study_1",
+      "study_label": "Case study of Chilean game developers and agencies (semi-structured interviews)",
+      "research_categories": [
+        "Technological",
+        "Economics",
+        "Policy-making",
+        "Governance"
+      ],
+      "studied_conditions": [
+        "technological dependency",
+        "intellectual property (IP) constraints",
+        "dependency in game production",
+        "peripheral game development"
+      ],
+      "population": {
+        "population_id": "pop_001",
+        "population_raw": "Chilean game developers and governmental agencies",
+        "studied_conditions": [
+          "technological dependency",
+          "intellectual property (IP) constraints",
+          "dependency in game production",
+          "peripheral game development"
+        ],
+        "age_range": null,
+        "mean_age": null,
+        "sample_size": null,
+        "gender": null,
+        "country": null,
+        "prior_gaming_experience": null,
+        "population_category": []
+      },
+      "study_design": "qualitative",
+      "evidence_strength": "qualitative",
+      "context": "Chilean video games sector, peripheral location; case study deploying semi-structured interviews with Chilean game developers and governmental agencies; discussion framed by dependency theory and cognitive capitalism.",
+      "intervention_duration": "not_reported",
+      "interventions": [
+        {
+          "intervention_id": "study_1_int_01",
+          "intervention_name": null,
+          "treatment_raw": null,
+          "control_raw": null,
+          "conditions": [
+            {
+              "condition_id": "study_1_cond_unclear",
+              "condition_type": "unclear",
+              "description": null,
+              "game_mentions": [
+                "Unspecified video game"
+              ],
+              "game_ids": []
+            }
+          ]
+        }
+      ],
+      "outcomes": [
+        {
+          "outcome_id": "study_1_out_001",
+          "outcome_raw": "forms of dependency on the use of non-proprietary technological tools (game engines and software development kits \u2013 SDKs) and the protection of intellectual property (IP) in the centre (publishing schemes)",
+          "outcome_canonical": "technological dependency and IP centralization/appropriation",
+          "outcome_category": "interpreted_construct",
+          "measurement_id": "study_1_meas_001",
+          "measurement_raw": "semi-structured interviews",
+          "measurement_type": "qualitative interview",
+          "effect_direction": "not_reported",
+          "effect_size_raw": null,
+          "effect_size_numeric": null,
+          "effect_metric": null,
+          "p_value": null,
+          "confidence_interval": null,
+          "effect_target_measure": null,
+          "evidence_statement": null,
+          "source_quote": "Deploying semi-structured interviews with Chilean game developers and governmental agencies, the article evidence forms of dependency on the use of non-proprietary technological tools (game engines and software development kits \u2013 SDKs) and the protection of intellectual property (IP) in the centre (publishing schemes).",
+          "source_page": 1,
+          "page_trace_status": "found"
+        },
+        {
+          "outcome_id": "study_1_out_002",
+          "outcome_raw": "use of non-proprietary software limits creativity and imposes barriers for dissemination of information among small actors; game development is conditioned by technological limits of SDKs and game engines",
+          "outcome_canonical": "constraints from non-proprietary tools (game engines/SDKs) on creativity, dissemination, and cooperation",
+          "outcome_category": "interpreted_construct",
+          "measurement_id": "study_1_meas_002",
+          "measurement_raw": "semi-structured interviews; literature citations (Kirkpatrick, Dyer-Witheford, O'Donnell)",
+          "measurement_type": "qualitative interview and literature-based interpretation",
+          "effect_direction": "not_reported",
+          "effect_size_raw": null,
+          "effect_size_numeric": null,
+          "effect_metric": null,
+          "p_value": null,
+          "confidence_interval": null,
+          "effect_target_measure": null,
+          "evidence_statement": null,
+          "source_quote": "Tools and software used for creating games are not proprietary software of small developers. Instead, these developers usually use software which is available for free, or on a licence basis, to create and edit games. The use of non-proprietary software has led to critiques from games scholars, specifically that the use of said tools (Game Engines and Software Development Kits for consoles) not only limits creativity (Kirkpatrick, 2013) but also imposes essential barriers for the dissemination of information among small actors.",
+          "source_page": 2,
+          "page_trace_status": "found"
+        },
+        {
+          "outcome_id": "study_1_out_003",
+          "outcome_raw": "the primary source of value in cognitive capitalism and global game production (IP) is eventually transferred to publishers in exchange for financial stability, or games developers are transformed into service providers of outsourced content under publishers' schemes and IP trade",
+          "outcome_canonical": "transfer of IP value to publishers and transformation of developers into service providers",
+          "outcome_category": "interpreted_construct",
+          "measurement_id": "study_1_meas_003",
+          "measurement_raw": "semi-structured interviews; case study analysis",
+          "measurement_type": "qualitative interview and case analysis",
+          "effect_direction": "not_reported",
+          "effect_size_raw": null,
+          "effect_size_numeric": null,
+          "effect_metric": null,
+          "p_value": null,
+          "confidence_interval": null,
+          "effect_target_measure": null,
+          "evidence_statement": null,
+          "source_quote": "The empirical data show that the primary source of value in cognitive capitalism and global game production (IP) is eventually transferred to publishers in exchange for financial stability, or games developers are transformed into service providers of outsourced content (partial or full development of games) under publishers\u2019 schemes and IP trade.",
+          "source_page": 2,
+          "page_trace_status": "found"
+        }
+      ],
+      "source_pdf": "paper_5.pdf",
+      "extraction_confidence": 0.5,
+      "review_status": "needs_review"
+    }
+  ]
+}
