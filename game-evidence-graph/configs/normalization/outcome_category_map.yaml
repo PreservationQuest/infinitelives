@@ -1,0 +1,28 @@
+# Canonical outcome category labels for derived normalized outputs.
+# Keys are matched case-insensitively after trimming whitespace.
+addiction: Addiction
+behavioral: Behavioral
+behavioural: Behavioral
+behavioral_performance: Behavioral
+cognitive: Neuro/Cognitive
+cognitive_performance: Neuro/Cognitive
+neuro/cognitive: Neuro/Cognitive
+neuro_cognitive: Neuro/Cognitive
+physiological: Physiological
+psychological: Psychological
+social: Social
+learning: Learning
+education: Education
+educational: Education
+technological: Technological
+technology: Technological
+economics: Economics
+economic: Economics
+ethical: Ethical
+ethics: Ethical
+governance: Governance
+policy: Policy-making
+policy-making: Policy-making
+sexualization: Sexualization
+sexualisation: Sexualization
+unclear: unclear

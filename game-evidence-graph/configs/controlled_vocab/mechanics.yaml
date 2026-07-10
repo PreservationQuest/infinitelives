@@ -1,0 +1,25 @@
+mechanics:
+  - canonical_name: Combat
+    aliases: [fighting, shooting]
+    definition: Player engages opponents through conflict systems.
+    parent_category: Action
+  - canonical_name: Puzzle Solving
+    aliases: [puzzles, problem solving]
+    definition: Player solves rule-based spatial, logical, or conceptual challenges.
+    parent_category: Puzzle / Spatial Reasoning
+  - canonical_name: Physics Interaction
+    aliases: [physics manipulation, physics-based interaction, physical simulation]
+    definition: Player interacts with simulated physical systems such as gravity, force, momentum, or collision.
+    parent_category: Puzzle / Spatial Reasoning
+  - canonical_name: Gravity Manipulation
+    aliases: [gravity control]
+    definition: Player changes or reasons about gravitational forces.
+    parent_category: Puzzle / Spatial Reasoning
+  - canonical_name: Trajectory Aiming
+    aliases: [aiming, projectile aiming]
+    definition: Player chooses direction, force, or angle for a projectile or moving object.
+    parent_category: Spatial Reasoning
+  - canonical_name: Level Progression
+    aliases: [levels, staged progression]
+    definition: Player advances through ordered challenge stages.
+    parent_category: Progression

@@ -1,0 +1,9 @@
+llm:
+  provider: openai
+  model: gpt-5-mini
+paths:
+  papers: data/input/papers
+  intermediate: data/intermediate
+  processed: data/processed
+review:
+  low_confidence_threshold: 0.70

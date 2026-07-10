@@ -1,0 +1,13 @@
+evidence_strengths:
+  - randomized_controlled_trial
+  - quasi_experimental
+  - case_control
+  - within_subject_experimental
+  - within_subject_observational
+  - between_subject_observational
+  - correlational
+  - pre_post_no_control
+  - qualitative
+  - mixed_methods
+  - not_reported
+  - unclear
