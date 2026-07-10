@@ -1,0 +1,12 @@
+# Optional canonical mechanic-name mappings for derived normalized outputs.
+# Keys are matched case-insensitively after trimming whitespace.
+cooperation: Cooperative Play
+cooperative play: Cooperative Play
+gesture input: Gesture Input
+movement control: Movement Control
+balance training: Balance Training
+physical imitation: Physical Imitation
+rapid response: Rapid Response
+targeting: Targeting
+combat: Combat
+not_reported: not_reported
