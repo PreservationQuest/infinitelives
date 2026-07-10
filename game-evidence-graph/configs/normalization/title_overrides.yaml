@@ -1,6 +1,0 @@
-# Optional paper title overrides for derived normalized outputs.
-# Keys should be paper_id values. Values should be corrected paper_title strings.
-#
-# Example:
-# paper_084: "Correct paper title"
-{}

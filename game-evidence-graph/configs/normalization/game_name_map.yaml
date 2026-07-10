@@ -1,9 +1,0 @@
-# Optional canonical game-name mappings for derived normalized outputs.
-# Leave this conservative; map only when you are comfortable collapsing labels.
-#
-# Examples:
-# Xbox Kinect: Microsoft Kinect
-# Kinect: Microsoft Kinect
-# Wii Sport bowling: Wii Sports
-# Wii boxing: Wii Sports
-{}
